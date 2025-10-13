@@ -1,1 +1,1 @@
-print("Inicio del desarrollo de la funcionalidad del Login")
+print("Login v2.0")
