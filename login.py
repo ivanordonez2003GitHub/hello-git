@@ -1,1 +1,1 @@
-print("Login con 2FA")
+print("Login con 2FA correo o SMS")
